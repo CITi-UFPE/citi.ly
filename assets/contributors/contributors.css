@@ -165,8 +165,6 @@ body {
 /* ---------- FOOTER ---------- */
 .footer {
   width: 100vw;
-  position: fixed;
-  bottom: 0;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
